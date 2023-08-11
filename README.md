@@ -10,7 +10,7 @@
 
 Improve your cart price rules with automatic coupon codes and take customer experience to a new level.
 
-<a href="https://magefan.com/"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/magento-2-coupon-code-link"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
 ## Requirements
   * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)

@@ -162,6 +162,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 Order Editor](https://magefan.com/magento-2-edit-order-extension)
   * [Magento 2 Google Customer Reviews](https://magefan.com/magento-2-google-customer-reviews)
   * [Magento 2 Email Attachments](https://magefan.com/magento-2-email-attachments)
+  * [Magento 2 Cron Schedule](https://magefan.com/magento-2-cron-schedule)
     
 ### [Magento 2 Blog Extensions](https://magefan.com/magento-2-extensions/blog-extensions)
 

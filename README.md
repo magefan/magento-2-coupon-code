@@ -13,9 +13,8 @@ Improve your cart price rules with automatic coupon codes and take customer expe
 <a href="https://magefan.com/magento-2-coupon-code-link"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-coupon-code-link#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Requirements
-  * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
-  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.13. Please install this extension first if you use installation via FTP.
-  * **Note** that extension is free only for the Magento Community (Open Source) Edition. For Magento EE, ECE, B2B you need to purchase the license at magefan.com.
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+  * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.20. Please install this extension first if you use installation via FTP.
 
 ## Benefits
 * Personalised shopping experience
@@ -24,13 +23,13 @@ Improve your cart price rules with automatic coupon codes and take customer expe
 
 ## Features
 
-* **Improve Cart Price Rules**
+### Improve Cart Price Rules
 
 Magento cart price rules are one of the best ways to run promotions and provide discounts. However, when you use coupon codes customers have to copy and paste them in the shopping cart or checkout. 
 
 Too many steps, not everyone is willing to take. Magento 2 Coupon Code Link Extension generates a coupon code link as you create the cart price rule. It makes sharing discounts easiest and applying them literally effortless. Your cart price rules will never be the same.
 
-* **Apply Discounts Automatically**
+### Apply Discounts Automatically
 
 Imagine that you’ve added a coupon code to a banner or CMS block on your website. To get a discount customers need to copy and paste it on checkout or even type it out. But what if all they needed to do was click one button? It is possible with this Magento 2 Coupon Code Extension. 
 
@@ -40,7 +39,7 @@ When customers click on your coupon code link, they not only apply a discount au
   <img width="853" height="425" src="https://cm.magefan.com/catalog/apply-coupon-codes-automatically-magento.png">
 </p>
 
-* **Add Products to Cart in One Click**
+### Add Products to Cart in One Click
 
 When you run a sales campaign around certain products or products you want to sell, you send emails, share posts on social media or display banners in your store. You ask customers to have a look at the product and provide a special discount to boost their interest. 
 
@@ -50,7 +49,7 @@ You can keep doing that. However, to improve customer experience even more, you 
   <img width="853" height="425" src="https://cm.magefan.com/catalog/add-products-to-cart-automatically_1.png">
 </p>
 
-* **Improve your Marketing Campaigns**
+### Improve your Marketing Campaigns
 
 Although your marketing campaign has been doing great, the Magento Coupon Code Extension can only make things better. You can add coupon code links or widgets to your sales emails or newsletters to drive more customers. 
 
@@ -60,7 +59,7 @@ All they will have to do is click a “Get my discount’” button and land on 
   <img width="853" height="425" src="https://cm.magefan.com/catalog/magento-2-coupon-code-link-in-newsletter.png">
 </p>
 
-* **Provide Coupon Code Links on Social Media**
+### Provide Coupon Code Links on Social Media
 
 If you already use email marketing to promote your products, why don’t use the same approach with social media? You can use any coupon code link you create and share it in your Twits, Facebook posts or Instagram Stories. 
 
@@ -117,6 +116,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento-2-coupon-code/issues).
 
 ## Need More Features?
 Please contact us to get a quote

@@ -20,9 +20,13 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 ## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
-* Personalised shopping experience
-* Automatic coupon code applying
-* Adding products to cart automatically
+* [Improve Magento Cart Price Rules](https://github.com/magefan/magento-2-coupon-code#improve-magento-cart-price-rules)
+* [Apply Coupons Automatically](https://github.com/magefan/magento-2-coupon-code#apply-coupons-automatically)
+* [Add Products to Cart in One Click](https://github.com/magefan/magento-2-coupon-code#add-products-to-cart-in-one-click)
+* [Display Coupon Codes on Any Page](https://github.com/magefan/magento-2-coupon-code#display-coupon-codes-on-any-page)
+* [Improve Your Marketing Campaigns](https://github.com/magefan/magento-2-coupon-code#improve-your-marketing-campaigns)
+* [Provide Coupon Code Links on Social Media](https://github.com/magefan/magento-2-coupon-code#provide-coupon-code-links-on-social-media)
+
 
 ## Features
 

@@ -1,19 +1,23 @@
 # [Magento 2 Coupon Code Extension](https://magefan.com/magento-2-coupon-code-link) by Magefan
 
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-coupon-code-link.jpg">
 
-[Magento 2 Coupon Code Extension](https://magefan.com/magento-2-coupon-code-link)  is a solution that allows you to create coupon code links in Magento and automatically apply the discounts to shopping carts. Additionally, you can also use the advanced coupon code links or coupon code widgets to add products to a cart and redirect customers to a certain page in your store. 
+[Magento 2 Coupon Code Extension](https://magefan.com/magento-2-coupon-code-link)  is a solution that extends the default Magento cart price rules. It allows you to automatically apply discounts to shopping carts, place coupon widgets on any page, and add products to the cart.
 
-Improve your cart price rules with automatic coupon codes and take customer experience to a new level.
+Improve your cart price rules with automatic coupon codes and take customer experience to a new level!
 
-<a href="https://magefan.com/magento-2-coupon-code-link"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-coupon-code-link#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento-2-coupon-code-link"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1861#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
+
+## Useful Links
+  * [User Guide](https://magefan.com/magento-2-coupon-code-link/documentation)
+  * [Change Log](https://magefan.com/magento-2-coupon-code-link/change-log)
+  * [FAQs](https://magefan.com/magento-2-coupon-code-link#pattr-faq)
+
+## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
 
 ## Benefits
 * Personalised shopping experience
@@ -22,17 +26,23 @@ Improve your cart price rules with automatic coupon codes and take customer expe
 
 ## Features
 
-### Improve Cart Price Rules
+### Improve Magento Cart Price Rules
 
-Magento cart price rules are one of the best ways to run promotions and provide discounts. However, when you use coupon codes customers have to copy and paste them in the shopping cart or checkout. 
+Magento cart price rules are one of the best ways to run promotions and provide discounts. However, when you use coupon codes customers have to copy and paste them in the shopping cart or on checkout.
 
-Too many steps, not everyone is willing to take. Magento 2 Coupon Code Link Extension generates a coupon code link as you create the cart price rule. It makes sharing discounts easiest and applying them literally effortless. Your cart price rules will never be the same.
+Nobody likes this many steps.
 
-### Apply Discounts Automatically
+The Magento 2 Coupon Code Extension changes the game. It generates a coupon code link as you create the cart price rule. Then, it’s applied to the shopping cart automatically with no extra effort from customers.
 
-Imagine that you’ve added a coupon code to a banner or CMS block on your website. To get a discount customers need to copy and paste it on checkout or even type it out. But what if all they needed to do was click one button? It is possible with this Magento 2 Coupon Code Extension. 
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/catalog/magento-2-coupon-code.png">
+</p>
 
-When customers click on your coupon code link, they not only apply a discount automatically. The extension allows you to redirect customers to a certain page and even add certain products to the cart immediately. Is there something better?
+### Apply Coupons Automatically
+
+Imagine that you’ve added a coupon code to a banner or CMS block on your website. To get a discount customers need to copy and paste it on checkout or even type it out. But what if all they needed to do was click one button? 
+
+It is possible with this Magento 2 Coupon Code Extension. When customers click on your coupon code link, the discount is applied to their shopping carts automatically. This makes your offer much more appealing. 
 
 <p align="center">
   <img width="853" height="425" src="https://cm.magefan.com/catalog/apply-coupon-codes-automatically-magento.png">
@@ -40,19 +50,33 @@ When customers click on your coupon code link, they not only apply a discount au
 
 ### Add Products to Cart in One Click
 
-When you run a sales campaign around certain products or products you want to sell, you send emails, share posts on social media or display banners in your store. You ask customers to have a look at the product and provide a special discount to boost their interest. 
+When you run a sales campaign, you send emails, share posts on social media, or display banners in your store. You encourage customers to view your products and provide a special discount to boost their interest.
 
-You can keep doing that. However, to improve customer experience even more, you can add those products you promote to customers' shopping carts automatically. Magento 2 Coupon Code Extension allows you to specify product SKUs and quantities you want to be added to the cart along with the coupon.
+What if we took it a bit further?
+
+The Magento 2 Coupon Code Extension can apply a coupon automatically AND add corresponding products to the cart. The only thing a customer has to do is go and place an order. Isn’t it much better?
 
 <p align="center">
   <img width="853" height="425" src="https://cm.magefan.com/catalog/add-products-to-cart-automatically_1.png">
 </p>
 
-### Improve your Marketing Campaigns
+### Display Coupon Codes on Any Page
 
-Although your marketing campaign has been doing great, the Magento Coupon Code Extension can only make things better. You can add coupon code links or widgets to your sales emails or newsletters to drive more customers. 
+Discounts are great stimulators that encourage customers to buy from you. Yet, it’s equally important to display a coupon on the right page to show it in the best light.
 
-All they will have to do is click a “Get my discount’” button and land on a shopping cart page with products and discounts already applied. You significantly simplify the customer journey using automatic coupon codes.
+With this Magento 2 Coupon Code Extension, you can display coupons on any page in your store. Choose the most favorable location, use the coupon code widget link to insert a coupon. Then benefit from the enhanced sales!
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/catalog/add-coupon-code-links-to-any-page-magento.png">
+</p>
+
+### Improve Your Marketing Campaigns
+
+Your marketing campaigns may be doing great. Still, the Magento Coupon Code Extension can make things even better. 
+
+You can add coupon code links or widgets to your sales emails or newsletters to drive more customers. All they have to do is click a “Get my discount’” button and land on a shopping cart page with products and discounts already applied. 
+
+Sounds promising, right?
 
 <p align="center">
   <img width="853" height="425" src="https://cm.magefan.com/catalog/magento-2-coupon-code-link-in-newsletter.png">
@@ -60,9 +84,13 @@ All they will have to do is click a “Get my discount’” button and land on 
 
 ### Provide Coupon Code Links on Social Media
 
-If you already use email marketing to promote your products, why don’t use the same approach with social media? You can use any coupon code link you create and share it in your Twits, Facebook posts or Instagram Stories. 
+If you already use email marketing to promote your products, why don’t use the same approach with social media? You can use any coupon code link you create and share it in your tweets, Facebook posts, or Instagram publications.
 
-Driving more traffic to your store is easy when you have a great offer and care to provide a personalized customer experience, especially when it comes to sales. 
+The Magento 2 Coupon Code Extension really covers all your bases. Make sure to use it to provide a personalized customer experience and drive more sales!
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/catalog/coupon-code-link-in-social-media_3.png">
+</p>
 
 ## Demo
 
@@ -90,7 +118,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://ccl.demo.magefan.top/coupon-link-discounts">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Coupon Code Admin Panel Demo"
             height="220"
           >
@@ -123,18 +151,6 @@ https://magefan.com/contact
 
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
-
-## [Documentation](https://magefan.com/magento-2-price-history/documentation)
-
-**General**
-* [How to install Magento 2 Coupon Code?](https://magefan.com/magento-2-coupon-code-link/installation)
-* [How to update Magento 2 Coupon Code?](https://magefan.com/magento-2-coupon-code-link/updating)
-* [How to uninstall Magento 2 Coupon Code?](https://magefan.com/magento-2-coupon-code-link/uninstalling)
-  
-**Configuration**
-* [How to Configure Coupon Code Widget?](https://magefan.com/blog/add-coupon-codes-via-widgets-in-magento)
-* [How to Enable Coupon Code Links?](https://magefan.com/blog/enable-coupon-code-links-in-magento)
-* [How to Apply Coupon Codes Automatically?](https://magefan.com/blog/magento-apply-coupon-code-automatically)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
